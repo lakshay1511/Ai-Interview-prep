@@ -44,11 +44,11 @@ You can create your own interview session based on:
 #### 🧩 Component Diagram  
 ![Component Diagram](./uml.jpg)
 
-#### 🏛️ Class Diagram  
-![Class Diagram](./public/images/class-diagram.png)
+#### 🏛️ Entity-Relation Diagram  
+![Class Diagram](./sequence.jpg)
 
 #### 🔁 Sequence Diagram  
-![Sequence Diagram](./public/images/sequence-diagram.png)
+![Sequence Diagram](./er.jpg)
 
 ---
 
