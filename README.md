@@ -42,7 +42,7 @@ You can create your own interview session based on:
 ### 📊 System Diagrams
 
 #### 🧩 Component Diagram  
-![Component Diagram](./public/images/component-diagram.jpg)
+![Component Diagram](./uml.jpg)
 
 #### 🏛️ Class Diagram  
 ![Class Diagram](./public/images/class-diagram.png)
