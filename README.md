@@ -39,6 +39,17 @@ You can create your own interview session based on:
 - Clean, minimal, and responsive UI powered by **shadcn components**.
 
 ---
+### 📊 System Diagrams
+
+#### 🧩 Component Diagram  
+![Component Diagram](/mnt/data/WhatsApp Image 2025-11-24 at 11.42.11_68dd2f0f.jpg)
+
+#### 🏛️ Class Diagram  
+![Class Diagram](/mnt/data/image (1).png.crdownload.png)
+
+#### 🔁 Sequence Diagram  
+![Sequence Diagram](/mnt/data/image.png.crdownload.png)
+---
 
 ## 🛠️ Tech Stack
 
