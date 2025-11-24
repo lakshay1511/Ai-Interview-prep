@@ -1,0 +1,82 @@
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+
+# --- Next.js ---
+.next/
+out/
+dist/
+.vercel/
+*.manifest.json
+*.map
+
+
+# --- Firebase ---
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Firebase emulator
+firebase.json
+firestore.rules
+firestore.indexes.json
+storage.rules
+
+# Do NOT ignore firebase.json if you want it in repo.
+# If you want emulator config tracked, remove the above lines.
+
+
+# --- Build / Production ---
+build/
+coverage/
+*.tsbuildinfo
+
+
+# --- Environment Variables ---
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+.env.*
+
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# JetBrains
+.idea/
+*.iml
+
+# Mac system
+.AppleDouble
+.LSOverride
+
+
+# --- Misc ---
+# Local firebase service credentials
+serviceAccountKey.json
+
+# Debug / Temp files
+tmp/
+temp/
+*.tmp
+*.temp
+
